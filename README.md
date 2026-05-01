@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">(https://readme-typing-svg.herokuapp.com/demo/?color=F78471&lines=Hello!+I'm+L%C3%ADvia+Gama)</h3>
+<h3 align="left">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78471&width=435&lines=Hello!+I'm+L%C3%ADvia+Gama)](https://git.io/typing-svg)</h3>
 
 ###
 
