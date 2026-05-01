@@ -1,51 +1,89 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=liviagama.liviagama&"  />
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78471&width=435&lines=Hello!+I'm+L%C3%ADvia+Gama+%F0%9F%9A%80;CS+Student+%7C+Drone+Builder;Python+%7C+Unity+%7C+Curious+Mind)](https://git.io/typing-svg)
 
-###
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78471&width=435&lines=Hello!+I'm+L%C3%ADvia+Gama)](https://git.io/typing-svg)
+## 🟠 About Me
 
-###
+Hey! I'm **Lívia**, 17 years old and currently in my **first semester of Computer Science**. I'm the kind of person who gets excited about building things that actually fly — literally. Between classes, you'll find me deep in drone schematics, writing Python scripts, or exploring how virtual worlds are made. I love connecting dots between different areas and I genuinely believe technology can reshape how we experience reality.
 
-<p align="left">I'm Lívia, a Computer Science student who enjoys working at the intersection of software and real-world systems. I got interested in technology through programming, but what really motivates me today is building things that actually move and respond — especially drones.<br><br>Currently, I’m involved in two UAV projects: a quadrotor developed with my university team and a fixed-wing drone as part of a personal group project. Alongside that, I’m improving my skills in Python and exploring Unity, while also developing an interest in areas like virtual reality and machine learning.<br><br>I use this space to document what I’m building and learning as I grow into a software and engineering-focused career.</p>
+---
 
-###
+## 🛸 Current Projects
 
-<h2 align="left">🔧 Tech Stack</h2>
+```python
+projects = {
+    "quadrotor": {
+        "type"  : "university team",
+        "goal"  : "build a competitive quadrotor drone",
+        "status": "🔧 in development"
+    },
+    "fixed_wing": {
+        "type"  : "personal group project",
+        "goal"  : "design a fixed-wing drone from scratch",
+        "status": "🔧 in development"
+    }
+}
+```
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
+## 🔥 Areas of Interest
 
-###
+<table>
+  <tr>
+    <td>🥽 Virtual Reality</td>
+    <td>🤖 Machine Learning</td>
+    <td>🚁 Drones & Robotics</td>
+  </tr>
+  <tr>
+    <td>🐍 Python</td>
+    <td>🎮 Unity & Game Dev</td>
+    <td>🌐 Computer Vision</td>
+  </tr>
+</table>
 
-<h2 align="left">📫 Socials</h2>
+---
 
-###
+## 📚 Currently Learning
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-</div>
+- 🐍 **Python** — deepening my skills in scripting, automation & data
+- 🎮 **Unity** — exploring 3D environments and VR development
+- ✈️ **Drone Engineering** — aerodynamics, flight controllers & embedded systems
 
-###
+---
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
+## 🛠️ Tech Stack
 
-###
+![Python](https://img.shields.io/badge/Python-F78471?style=for-the-badge&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-F78471?style=for-the-badge&logo=unity&logoColor=white)
+![C](https://img.shields.io/badge/C-F78471?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F78471?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-F78471?style=for-the-badge&logo=linux&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-F78471?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=transparent&title_color=F78471&icon_color=F78471&text_color=ffffff&border_color=F78471"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=transparent&title_color=F78471&text_color=ffffff&border_color=F78471"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F78471?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![Instagram](https://img.shields.io/badge/Instagram-F78471?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_INSTAGRAM)
+[![Email](https://img.shields.io/badge/Email-F78471?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=F78471&style=flat-square&label=profile+views"/>
+</p>
+
+<p align="center">
+  <i>"The sky is not the limit — it's just the beginning." 🛸</i>
+</p>
