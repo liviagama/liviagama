@@ -2,26 +2,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=liviagama.liviagama&"  />
 </div>
 
-###
-<img width=100% 
-src="https://capsule-render.vercel.app/api?type
-=waving&color=ff91a4&height=120&section=header" 
-/>
-
-<div>
-<div>
-
-## 🎀 ,, ε { 👩‍💻 tech girl } 彡 .˚
-
-[![Typing
-SVG](https://readme-typing-svg.herokuapp.com
-?font=Fira+Code&pause=1000&color=FF6897&width=
-435&lines=Hello,+I+am+Lívia+%C3
-%81vila!;I'm+17+years
-+old;I'm+a+Software+Development+Student;Welcome
-+to+my+profile!)](https://git.io/typing-svg)
-</div>
-
 ##
 🕯️ . ‘ + * Hi! My name is Lívia and I'm currently on my first semester of Computer Science
 
