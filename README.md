@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">[👋 Hi there](https://readme-typing-svg.herokuapp.com/demo/?color=F78471&lines=Hello!+I'm+L%C3%ADvia+Gama)</h3>
+<h3 align="left">(https://readme-typing-svg.herokuapp.com/demo/?color=F78471&lines=Hello!+I'm+L%C3%ADvia+Gama)</h3>
 
 ###
 
