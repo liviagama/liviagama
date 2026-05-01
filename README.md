@@ -2,12 +2,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=liviagama.liviagama&"  />
 </div>
 
-##
-🕯️ . ‘ + * Hi! My name is Lívia and I'm currently on my first semester of Computer Science
-
 ###
 
-<h3 align="left">👋 Hi there</h3>
+<h3 align="left">[👋 Hi there](https://readme-typing-svg.herokuapp.com/demo/?color=F78471&lines=Hello!+I'm+L%C3%ADvia+Gama)</h3>
 
 ###
 
