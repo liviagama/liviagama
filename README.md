@@ -78,7 +78,6 @@ Autonomous drone team, formed two months before our first competition.
   <a href="https://www.linkedin.com/in/liviagama/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=English%20B2%20%C2%B7%20Cambridge%20FCE&label=&color=555555&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="english b2 cambridge fce" />
 </div>
 
 <div>
