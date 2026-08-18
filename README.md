@@ -3,10 +3,10 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=F78358&center=true&vCenter=true&width=560&lines=CS+student+%40+UNIVAP;Autonomous+drones+%2F+UAV;Python+%2B+OpenCV+%2B+embedded+C%2FC%2B%2B;Chasing+eVTOL+%2B+urban+air+mobility" alt="typing banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=F78358&center=true&vCenter=true&width=560&lines=Computer+Engineering+%40+UNIVAP;Autonomous+drones+%2F+UAV;Python+%2B+OpenCV+%2B+embedded+C%2FC%2B%2B;Chasing+eVTOL+%2B+urban+air+mobility" alt="typing banner" />
 </p>
 
-Computer Science student (UNIVAP, 2nd semester) in São José dos Campos, Brazil. I write the vision code that helps an autonomous drone figure out where to land — and I'm aiming that same skill set at eVTOL and urban air mobility.
+Computer Engineering student (UNIVAP, 2nd semester) in São José dos Campos, Brazil. I write the vision code that helps an autonomous drone figure out where to land — and I'm aiming that same skill set at eVTOL and urban air mobility.
 
 ###
 
